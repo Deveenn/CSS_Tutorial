@@ -36,7 +36,7 @@ How to Use This Tutorial
 
     Check the Resources:
     Additional resources and references are provided to deepen your understanding of CSS.
-
+ 
 Contributions
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Let's make this tutorial better together!
